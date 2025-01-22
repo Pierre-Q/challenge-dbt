@@ -49,6 +49,10 @@ Ce dépôt contient :
 
 4. Configurez le fichier `profiles.yml` pour se connecter à votre base de données MySQL.
 
+5. Lancez DBT :
+   ```bash
+   dbt run
+
 ---
 
 ## 🔗 Liens utiles
